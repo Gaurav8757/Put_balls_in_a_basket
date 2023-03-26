@@ -1,0 +1,106 @@
+.basket {
+  background-image: linear-gradient(white, skyblue);
+
+  padding: 10px;
+  text-align: center;
+}
+#start-btn {
+  position: relative;
+  left: 10vw;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  font-family: monospace;
+  font-size: 15 px;
+
+  padding: 8px;
+  /*     border: none; */
+  cursor: pointer;
+}
+#stop-btn {
+  position: relative;
+  left: 20vw;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  font-family: monospace;
+  font-size: 15 px;
+
+  padding: 8px;
+  /*     border: none; */
+  cursor: pointer;
+}
+
+.ball-row {
+  display: inline;
+  flex-wrap: reverse wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.ball {
+  height: 35px;
+  width: 35px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.lightgrey {
+  background-color: lightgrey;
+}
+
+.darkorchid {
+  background-color: darkorchid;
+}
+
+.black {
+  background-color: black;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.deeppink {
+  background-color: deeppink;
+}
+
+.green {
+  background-color: green;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.saddlebrown {
+  background-color: saddlebrown;
+}
+
+.lightseagreen {
+  background-color: lightseagreen;
+}
+
+.deepskyblue {
+  background-color: deepskyblue;
+}
+
+.firebrick {
+  background-color: firebrick;
+}
+
+.crimson {
+  background-color: crimson;
+}
